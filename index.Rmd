@@ -1,11 +1,11 @@
 ---
 title: "Connor J Whalen"
-image: "whalen_pic.JPG"
+image: "pic.JPG"
 links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=A0tzTRAAAAAJ&hl=en&oi=ao"
   - label: C.V.
-    url: "Whalen C.V. 2025.pdf"
+    url: "cv.pdf"
   - label: Instagram
     url: "https://www.instagram.com/woodlab_uw/"  
 output:
