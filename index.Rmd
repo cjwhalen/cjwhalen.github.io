@@ -6,13 +6,19 @@ links:
     url: "https://scholar.google.com/citations?user=A0tzTRAAAAAJ&hl=en&oi=ao"
   - label: C.V.
     url: "https://docs.google.com/document/d/e/2PACX-1vRhDsP96AmBBUsJk--6rkreQ4k3MrKZnQJ8GvhXkjInabvZ7drU25MhMZHe9NWGqdob8ROIvcCnvF4G/pub"
+  - label: Instagram
+    url: "https://www.instagram.com/woodlab_uw/"  
 output:
-  postcards::solana
+  postcards::trestles
 ---
-  
+## Contact 
+email | cjwhalen@uw.edu
+
+Room 262B | Fishery Sciences Building | 1122 NE Boat St Box 355020, Seattle, WA 98195
+
 ## About Me
   
-  I am a second year graduate student at the University of Washington's [School of Aquatic and Fishery Sciences](https://fish.uw.edu/students/graduate-program/meet-our-graduate-students/) in Seattle, WA. I work as a member of the [Wood Lab](https://chelsealwood.com/people/) under the guidance of Dr. Chelsea Wood where we study historical parasite ecology in aquatic systems around the world. 
+I am a second year graduate student at the University of Washington's [School of Aquatic and Fishery Sciences](https://fish.uw.edu/students/graduate-program/meet-our-graduate-students/) in Seattle, WA. I work as a member of the [Wood Lab](https://chelsealwood.com/people/) under the guidance of Dr. Chelsea Wood where we study historical parasite ecology in aquatic systems around the world. 
   
 For my dissertation work I am focused on understanding how wildlife parasites are affected by extreme weather events and climate change. I currently am conducting projects on the parasites of marine mammals, freshwater fishes, and terrestrial birds across a range of ecosystems. 
 
@@ -26,21 +32,23 @@ In the summer of 2024, myself and a team of 8 others from the University of Wash
 
 ## Education
 
-**University of Washington School of Aquatic and Fishery Sciences** | Seattle, WA
+2023 - pr. | Graduate Student | University of Washington School of Aquatic and Fishery Sciences | Seattle, WA
 
-Graduate Student | 2023 - present
-
-**University of California, Santa Cruz** | Santa Cruz, CA
-
-B.S. Ecology and Evolutionary Biology | 2014 - 2018
+2018 | B.S. Ecology and Evolutionary Biology | University of California, Santa Cruz | Santa Cruz, CA
 
 ## Publications
 
-**2025** | Cooper, E.B., **Whalen, C.**, Beeby, N., Negron-Del Valle, J.N., Phillips, D., Cayo Biobank Research Unit, Snyder-Mackler, N., Brent, L.J.N., & Higham, J.P. (2025). Associations between social behaviour and proinflammatory immune activation are modulated by age in a free-ranging primate population. Animal Behaviour, 2019:123021  | [PDF](https://doi.org/10.1016/j.anbehav.2024.10.035)
+#### 2025
+Cooper, E.B., Whalen, C., Beeby, N., Negron-Del Valle, J.N., Phillips, D., Cayo Biobank Research Unit, Snyder-Mackler, N., Brent, L.J.N., & Higham, J.P. (2025). Associations between social behaviour and proinflammatory immune activation are modulated by age in a free-ranging primate population. Animal Behaviour, 2019:123021  | [PDF](https://doi.org/10.1016/j.anbehav.2024.10.035)
 
-**2023** | Higham, J.P., Cooper, E.B., **Whalen, C.**, Stahl-Hennig, C., Giavedoni, L.D., & Heistermann, M. (2023). Urinary cytokine measurements do not reflect surgery-induced inflammation in rhesus macaques. American Journal of Primatology e23506 | [PDF](https://doi.org/10.1002/ajp.23506)
+#### 2023
+Higham, J.P., Cooper, E.B., Whalen, C., Stahl-Hennig, C., Giavedoni, L.D., & Heistermann, M. (2023). Urinary cytokine measurements do not reflect surgery-induced inflammation in rhesus macaques. American Journal of Primatology e23506 | [PDF](https://doi.org/10.1002/ajp.23506)
 
-**2022** | Chiou, K.L., DeCasien, A.R., Rees, K.P, Testard, C., Spurrell, C.H., Gogate, A.A., Pliner, H.A., Tremblay, S., Mercer, A., Whalen, C.J., Negrón-Del Valle, J.E., Janiak, M.C., Bauman Surratt, S.E., González, O., Compo, N.R., Stock, M.K., Ruiz-Lambides, A.V., Martínez, M.I., Cayo Biobank Research Unit, Wilson, M.A., Melin, A.D., Antón, S.C., Walker, C.S., Sallet, J., Newbern, J.M., Starita, L.M., Shendure, J., Higham, J.P., Brent, L.J.N., Montague, M.J., Platt, M.L., & Snyder-Mackler, N. (2022). Multiregion transcriptomic profiling of the primate brain reveals signatures of aging and the social environment. Nature Neuroscience 25:1714–1723. | [PDF](https://doi.org/10.1038/s41593-022-01197-0)
+#### 2022
+Chiou, K.L., DeCasien, A.R., Rees, K.P, Testard, C., Spurrell, C.H., Gogate, A.A., Pliner, H.A., Tremblay, S., Mercer, A., Whalen, C.J., Negrón-Del Valle, J.E., Janiak, M.C., Bauman Surratt, S.E., González, O., Compo, N.R., Stock, M.K., Ruiz-Lambides, A.V., Martínez, M.I., Cayo Biobank Research Unit, Wilson, M.A., Melin, A.D., Antón, S.C., Walker, C.S., Sallet, J., Newbern, J.M., Starita, L.M., Shendure, J., Higham, J.P., Brent, L.J.N., Montague, M.J., Platt, M.L., & Snyder-Mackler, N. (2022). Multiregion transcriptomic profiling of the primate brain reveals signatures of aging and the social environment. Nature Neuroscience 25:1714–1723. | [PDF](https://doi.org/10.1038/s41593-022-01197-0)
 
-**2022** | Cooper, E.B., Watowich, M.M., Beeby, N., Whalen,C., Montague, M.J., Cayo Biobank Research Unit, Brent, L.J.N., Snyder-Mackler, N., & Higham, J.P. (2022). Concentrations of urinary neopterin, but not suPAR, positively correlate with age in rhesus macaques. Frontiers in Ecology and Evolution 10: 1007052 | [PDF](https://doi.org/10.3389/fevo.2022.1007052)
+Cooper, E.B., Watowich, M.M., Beeby, N., Whalen,C., Montague, M.J., Cayo Biobank Research Unit, Brent, L.J.N., Snyder-Mackler, N., & Higham, J.P. (2022). Concentrations of urinary neopterin, but not suPAR, positively correlate with age in rhesus macaques. Frontiers in Ecology and Evolution 10: 1007052 | [PDF](https://doi.org/10.3389/fevo.2022.1007052)
 
+## Parasite Playlist
+
+I am curating a playlist of songs that center around parasites, or mention parasites in some meaningful way. The playlist can be viewed [here](https://open.spotify.com/playlist/4CnFjlkRKTcFIYgf7cI5BN?si=2f29b9bf72b647a0), and if you can think of any other great parasite songs, send me an email and I will add them! 
