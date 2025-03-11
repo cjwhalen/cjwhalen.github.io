@@ -4,8 +4,6 @@ image: "pic.JPG"
 links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=A0tzTRAAAAAJ&hl=en&oi=ao"
-  - label: C.V.
-    url: "cv.pdf"
   - label: Instagram
     url: "https://www.instagram.com/woodlab_uw/"  
 output:
@@ -35,6 +33,8 @@ In the summer of 2024, myself and a team of 8 others from the University of Wash
 2023 - pr. | Graduate Student | University of Washington School of Aquatic and Fishery Sciences | Seattle, WA
 
 2018 | B.S. Ecology and Evolutionary Biology | University of California, Santa Cruz | Santa Cruz, CA
+
+Here is a link to my entire CV | [CV](https://docs.google.com/document/d/e/2PACX-1vRhDsP96AmBBUsJk--6rkreQ4k3MrKZnQJ8GvhXkjInabvZ7drU25MhMZHe9NWGqdob8ROIvcCnvF4G/pub)
 
 ## Publications
 
