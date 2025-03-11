@@ -5,7 +5,7 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=A0tzTRAAAAAJ&hl=en&oi=ao"
   - label: C.V.
-    url: "https://docs.google.com/document/d/e/2PACX-1vRhDsP96AmBBUsJk--6rkreQ4k3MrKZnQJ8GvhXkjInabvZ7drU25MhMZHe9NWGqdob8ROIvcCnvF4G/pub"
+    url: "Whalen C.V. 2025.pdf"
   - label: Instagram
     url: "https://www.instagram.com/woodlab_uw/"  
 output:
