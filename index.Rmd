@@ -52,3 +52,7 @@ Cooper, E.B., Watowich, M.M., Beeby, N., Whalen,C., Montague, M.J., Cayo Biobank
 ## Parasite Playlist
 
 I am curating a playlist of songs that center around parasites, or mention parasites in some meaningful way. The playlist can be viewed [here](https://open.spotify.com/playlist/4CnFjlkRKTcFIYgf7cI5BN?si=2f29b9bf72b647a0), and if you can think of any other great parasite songs, send me an email and I will add them! 
+
+## What Parasite Are You?
+
+Our lab built a fun quiz where you can determine what kind of parasite you are. Designed for people of all ages, you can access the quiz at [this link](https://docs.google.com/presentation/d/1OBSmK1hU4c1HcKWJwtMrEzHIt82Y6JgtThMoVz2-xrE/edit#slide=id.p).  
