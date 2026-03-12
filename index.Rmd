@@ -11,7 +11,7 @@ links:
   - label: Wood Lab Github
     url: "https://github.com/wood-lab"
 output:
-  postcards::trestles
+  postcards::solana
 ---
 
 ## Contact 
